@@ -1,0 +1,7 @@
+build/**
+.vscode/**
+customasm*
+XRCS.bin
+XRCS.dump.txt
+XRCS.sym.txt
+XRCS.txt

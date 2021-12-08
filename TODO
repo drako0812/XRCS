@@ -1,0 +1,55 @@
+xrcs-lib:
+    utility.asm:
+        ☐ Finish adding utility meta-instructions
+    baselib:
+        ctype.asm:
+            Implement:
+                ☐ islower
+                ☐ isupper
+                ☐ isdigit
+                ☐ isxdigit
+                ☐ iscntrl
+                ☐ isgraph
+                ☐ isspace
+                ☐ isblank
+                ☐ isprint
+                ☐ ispunct
+                ☐ tolower
+                ☐ toupper
+        stdlib.asm:
+            Implement:
+                ☐ atof
+                ☐ atoi
+                ☐ strtol
+                ☐ strtoul
+                ☐ strtof
+                ☐ strtoimax
+                ☐ strtoumax
+        string.asm:
+            Implement:
+                Group 1:
+                    ☐ strcpy
+                    ☐ strncpy
+                    ☐ strcat
+                    ☐ strncat
+                    ☐ strxfrm
+                    ☐ strdup
+                    ☐ strndup
+                Group 2:
+                    ☐ strlen
+                    ☐ strcmp
+                    ☐ strncmp
+                    ☐ strcoll
+                    ☐ strchr
+                    ☐ strrchr
+                    ☐ strspn
+                    ☐ strpbrk
+                    ☐ strstr
+                    ☐ strtok
+                Group 3:
+                    ☐ memchr
+                    ☐ memcmp
+                    ☐ memmove
+                    ☐ memccpy
+                Group 5:
+                    ☐ strerror
